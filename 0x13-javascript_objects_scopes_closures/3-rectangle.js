@@ -6,7 +6,6 @@ class Rectangle {
       this.height = h;
     }
   }
-
   print () {
     for (let i = 1; i <= this.height; i++) {
       let row = '';

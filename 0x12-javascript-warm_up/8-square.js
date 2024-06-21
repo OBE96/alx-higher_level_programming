@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 let size = process.argv[2];
 size = Number(size);
 

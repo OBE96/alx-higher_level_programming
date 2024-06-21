@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 let num = process.argv.slice(2);
 const numArgs = process.argv.length - 2;
 

@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 let num = process.argv[2];
 num = Number(num);
 

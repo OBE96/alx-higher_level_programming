@@ -1,4 +1,7 @@
 #!/usr/bin/node
+
+
+
 const num = Number(process.argv[2]);
 const fact = factorial(num);
 console.log(fact);

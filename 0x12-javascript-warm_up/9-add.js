@@ -1,4 +1,7 @@
 #!/usr/bin/node
+
+
+
 const firstNum = Number(process.argv[2]);
 const secondNum = Number(process.argv[3]);
 
